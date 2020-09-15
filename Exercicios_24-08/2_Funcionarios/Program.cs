@@ -23,11 +23,9 @@ namespace POO___Aula_1___Ex3
             Console.WriteLine("\n\nDados do primeiro funcionário:\nNome: " + a.nome + "\nSalário: R$" + a.salario.ToString("F2") + "\n");
             Console.WriteLine("Dados do segundo funcionário:\nNome: " + b.nome + "\nSalário: R$" + b.salario.ToString("F2") + "\n");
 
-            //float salario_media = (a.salario + b.salario) / 2;
+            double salario_media = (a.salario + b.salario) / 2;
 
-            float c = a.salario + b.salario;
-
-            Console.WriteLine("Salário médio: R$" + salario_media.ToString("F2"));
+            Console.WriteLine("Salário médio: R$" + (salario_media).ToString("F2"));
         }
     }
 }
