@@ -7,6 +7,8 @@ namespace POO___Aula_1
     {
         static void Main(string[] args)
         {
+            //teste
+
             Triangulo x, y; 
             x = new Triangulo(); 
             y = new Triangulo(); 
