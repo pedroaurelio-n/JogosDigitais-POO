@@ -1,0 +1,12 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO - Aula 1 - Ex3\bin\Debug\netcoreapp3.1\POO - Aula 1 - Ex3.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO - Aula 1 - Ex3\bin\Debug\netcoreapp3.1\POO - Aula 1 - Ex3.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO - Aula 1 - Ex3\bin\Debug\netcoreapp3.1\POO - Aula 1 - Ex3.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO - Aula 1 - Ex3\bin\Debug\netcoreapp3.1\POO - Aula 1 - Ex3.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO - Aula 1 - Ex3\bin\Debug\netcoreapp3.1\POO - Aula 1 - Ex3.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO - Aula 1 - Ex3\bin\Debug\netcoreapp3.1\POO - Aula 1 - Ex3.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO - Aula 1 - Ex3\obj\Debug\netcoreapp3.1\POO - Aula 1 - Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO - Aula 1 - Ex3\obj\Debug\netcoreapp3.1\POO - Aula 1 - Ex3.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO - Aula 1 - Ex3\obj\Debug\netcoreapp3.1\POO - Aula 1 - Ex3.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO - Aula 1 - Ex3\obj\Debug\netcoreapp3.1\POO - Aula 1 - Ex3.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO - Aula 1 - Ex3\obj\Debug\netcoreapp3.1\POO - Aula 1 - Ex3.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO - Aula 1 - Ex3\obj\Debug\netcoreapp3.1\POO - Aula 1 - Ex3.genruntimeconfig.cache
