@@ -1,0 +1,26 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\bin\Debug\netcoreapp3.1\POO_31-8_Ex1.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\bin\Debug\netcoreapp3.1\POO_31-8_Ex1.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\bin\Debug\netcoreapp3.1\POO_31-8_Ex1.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\bin\Debug\netcoreapp3.1\POO_31-8_Ex1.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\bin\Debug\netcoreapp3.1\POO_31-8_Ex1.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\bin\Debug\netcoreapp3.1\POO_31-8_Ex1.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\POO_31-8_Ex1\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\bin\Debug\netcoreapp3.1\POO_31-8_Ex1.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\bin\Debug\netcoreapp3.1\POO_31-8_Ex1.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\bin\Debug\netcoreapp3.1\POO_31-8_Ex1.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\bin\Debug\netcoreapp3.1\POO_31-8_Ex1.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\bin\Debug\netcoreapp3.1\POO_31-8_Ex1.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\bin\Debug\netcoreapp3.1\POO_31-8_Ex1.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercicio_31-08\1_Produto(sem ToString)\obj\Debug\netcoreapp3.1\POO_31-8_Ex1.genruntimeconfig.cache
