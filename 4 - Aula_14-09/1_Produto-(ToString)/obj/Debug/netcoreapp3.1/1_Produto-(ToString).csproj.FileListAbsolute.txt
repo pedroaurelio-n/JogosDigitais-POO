@@ -1,0 +1,12 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\4 - Aula_14-09\1_Produto-(ToString)\bin\Debug\netcoreapp3.1\1_Produto-(ToString).exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\4 - Aula_14-09\1_Produto-(ToString)\bin\Debug\netcoreapp3.1\1_Produto-(ToString).deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\4 - Aula_14-09\1_Produto-(ToString)\bin\Debug\netcoreapp3.1\1_Produto-(ToString).runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\4 - Aula_14-09\1_Produto-(ToString)\bin\Debug\netcoreapp3.1\1_Produto-(ToString).runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\4 - Aula_14-09\1_Produto-(ToString)\bin\Debug\netcoreapp3.1\1_Produto-(ToString).dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\4 - Aula_14-09\1_Produto-(ToString)\bin\Debug\netcoreapp3.1\1_Produto-(ToString).pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\4 - Aula_14-09\1_Produto-(ToString)\obj\Debug\netcoreapp3.1\1_Produto-(ToString).csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\4 - Aula_14-09\1_Produto-(ToString)\obj\Debug\netcoreapp3.1\1_Produto-(ToString).AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\4 - Aula_14-09\1_Produto-(ToString)\obj\Debug\netcoreapp3.1\1_Produto-(ToString).AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\4 - Aula_14-09\1_Produto-(ToString)\obj\Debug\netcoreapp3.1\1_Produto-(ToString).dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\4 - Aula_14-09\1_Produto-(ToString)\obj\Debug\netcoreapp3.1\1_Produto-(ToString).pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\4 - Aula_14-09\1_Produto-(ToString)\obj\Debug\netcoreapp3.1\1_Produto-(ToString).genruntimeconfig.cache
