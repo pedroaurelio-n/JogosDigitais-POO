@@ -31,7 +31,7 @@ namespace _1_Produto__ToString_
 			return "Nome: " + Nome + "\n"
 				+ "Preço: R$ " + Preco.ToString("F2", CultureInfo.InvariantCulture) + "\n"
 				+ Quantidade + " unidades em estoque\n"
-				+ "Total: R$ " + ValorTotalEstoque().ToString("F2", CultureInfo.InvariantCulture);
+				+ "Valor total: R$ " + ValorTotalEstoque().ToString("F2", CultureInfo.InvariantCulture);
 		}
 	}
 }
