@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\bin\Debug\netcoreapp3.1\1_Raio.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\bin\Debug\netcoreapp3.1\1_Raio.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\bin\Debug\netcoreapp3.1\1_Raio.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\bin\Debug\netcoreapp3.1\1_Raio.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\bin\Debug\netcoreapp3.1\1_Raio.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\bin\Debug\netcoreapp3.1\1_Raio.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\obj\Debug\netcoreapp3.1\1_Raio.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\obj\Debug\netcoreapp3.1\1_Raio.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\obj\Debug\netcoreapp3.1\1_Raio.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\obj\Debug\netcoreapp3.1\1_Raio.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\obj\Debug\netcoreapp3.1\1_Raio.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\obj\Debug\netcoreapp3.1\1_Raio.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\1_Raio\obj\Debug\netcoreapp3.1\1_Raio.genruntimeconfig.cache

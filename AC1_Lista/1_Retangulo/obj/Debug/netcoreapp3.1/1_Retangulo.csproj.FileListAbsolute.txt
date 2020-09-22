@@ -1,0 +1,12 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\1_Retangulo\bin\Debug\netcoreapp3.1\1_Retangulo.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\1_Retangulo\bin\Debug\netcoreapp3.1\1_Retangulo.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\1_Retangulo\bin\Debug\netcoreapp3.1\1_Retangulo.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\1_Retangulo\bin\Debug\netcoreapp3.1\1_Retangulo.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\1_Retangulo\bin\Debug\netcoreapp3.1\1_Retangulo.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\1_Retangulo\bin\Debug\netcoreapp3.1\1_Retangulo.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\1_Retangulo\obj\Debug\netcoreapp3.1\1_Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\1_Retangulo\obj\Debug\netcoreapp3.1\1_Retangulo.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\1_Retangulo\obj\Debug\netcoreapp3.1\1_Retangulo.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\1_Retangulo\obj\Debug\netcoreapp3.1\1_Retangulo.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\1_Retangulo\obj\Debug\netcoreapp3.1\1_Retangulo.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\1_Retangulo\obj\Debug\netcoreapp3.1\1_Retangulo.genruntimeconfig.cache

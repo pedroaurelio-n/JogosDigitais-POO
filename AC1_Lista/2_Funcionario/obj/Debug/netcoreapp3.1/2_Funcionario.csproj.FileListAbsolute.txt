@@ -1,0 +1,12 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\2_Funcionario\bin\Debug\netcoreapp3.1\2_Funcionario.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\2_Funcionario\bin\Debug\netcoreapp3.1\2_Funcionario.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\2_Funcionario\bin\Debug\netcoreapp3.1\2_Funcionario.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\2_Funcionario\bin\Debug\netcoreapp3.1\2_Funcionario.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\2_Funcionario\bin\Debug\netcoreapp3.1\2_Funcionario.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\2_Funcionario\bin\Debug\netcoreapp3.1\2_Funcionario.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\2_Funcionario\obj\Debug\netcoreapp3.1\2_Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\2_Funcionario\obj\Debug\netcoreapp3.1\2_Funcionario.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\2_Funcionario\obj\Debug\netcoreapp3.1\2_Funcionario.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\2_Funcionario\obj\Debug\netcoreapp3.1\2_Funcionario.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\2_Funcionario\obj\Debug\netcoreapp3.1\2_Funcionario.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\2_Funcionario\obj\Debug\netcoreapp3.1\2_Funcionario.genruntimeconfig.cache
