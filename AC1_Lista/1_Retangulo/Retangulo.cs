@@ -4,22 +4,19 @@ namespace _1_Retangulo
 {
     class Retangulo
     {
-        public double Largura;
-        public double Altura;
-
-        public double Area()
+        public static double Area(double largura, double altura)
         {
-            return Largura * Altura;
+            return largura * altura;
         }
 
-        public double Perimetro()
+        public static double Perimetro(double largura, double altura)
         {
-            return 2 * Largura + 2 * Altura;
+            return 2 * largura + 2 * altura;
         }
 
-        public double Diagonal()
+        public static double Diagonal(double largura, double altura)
         {
-            return Math.Sqrt(Math.Pow(Largura, 2) + Math.Pow(Altura, 2));
+            return Math.Sqrt(Math.Pow(largura, 2) + Math.Pow(altura, 2));
         }
     }
 }

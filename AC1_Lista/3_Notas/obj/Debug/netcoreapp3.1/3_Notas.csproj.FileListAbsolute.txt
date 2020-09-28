@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\bin\Debug\netcoreapp3.1\3_Notas.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\bin\Debug\netcoreapp3.1\3_Notas.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\bin\Debug\netcoreapp3.1\3_Notas.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\bin\Debug\netcoreapp3.1\3_Notas.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\bin\Debug\netcoreapp3.1\3_Notas.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\bin\Debug\netcoreapp3.1\3_Notas.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\obj\Debug\netcoreapp3.1\3_Notas.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\obj\Debug\netcoreapp3.1\3_Notas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\obj\Debug\netcoreapp3.1\3_Notas.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\obj\Debug\netcoreapp3.1\3_Notas.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\obj\Debug\netcoreapp3.1\3_Notas.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\obj\Debug\netcoreapp3.1\3_Notas.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\AC1_Lista\3_Notas\obj\Debug\netcoreapp3.1\3_Notas.genruntimeconfig.cache
