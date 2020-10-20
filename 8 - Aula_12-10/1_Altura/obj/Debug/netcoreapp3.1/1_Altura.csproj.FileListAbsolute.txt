@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\bin\Debug\netcoreapp3.1\1_Altura.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\bin\Debug\netcoreapp3.1\1_Altura.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\bin\Debug\netcoreapp3.1\1_Altura.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\bin\Debug\netcoreapp3.1\1_Altura.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\bin\Debug\netcoreapp3.1\1_Altura.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\bin\Debug\netcoreapp3.1\1_Altura.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\obj\Debug\netcoreapp3.1\1_Altura.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\obj\Debug\netcoreapp3.1\1_Altura.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\obj\Debug\netcoreapp3.1\1_Altura.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\obj\Debug\netcoreapp3.1\1_Altura.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\obj\Debug\netcoreapp3.1\1_Altura.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\obj\Debug\netcoreapp3.1\1_Altura.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\8 - Aula_12-10\1_Altura\obj\Debug\netcoreapp3.1\1_Altura.genruntimeconfig.cache

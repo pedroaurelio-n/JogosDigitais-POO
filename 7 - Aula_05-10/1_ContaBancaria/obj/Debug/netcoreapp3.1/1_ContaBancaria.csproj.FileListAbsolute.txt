@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\bin\Debug\netcoreapp3.1\1_ContaBancaria.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\bin\Debug\netcoreapp3.1\1_ContaBancaria.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\bin\Debug\netcoreapp3.1\1_ContaBancaria.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\bin\Debug\netcoreapp3.1\1_ContaBancaria.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\bin\Debug\netcoreapp3.1\1_ContaBancaria.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\bin\Debug\netcoreapp3.1\1_ContaBancaria.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\obj\Debug\netcoreapp3.1\1_ContaBancaria.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\obj\Debug\netcoreapp3.1\1_ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\obj\Debug\netcoreapp3.1\1_ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\obj\Debug\netcoreapp3.1\1_ContaBancaria.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\obj\Debug\netcoreapp3.1\1_ContaBancaria.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\obj\Debug\netcoreapp3.1\1_ContaBancaria.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\1_ContaBancaria\obj\Debug\netcoreapp3.1\1_ContaBancaria.genruntimeconfig.cache

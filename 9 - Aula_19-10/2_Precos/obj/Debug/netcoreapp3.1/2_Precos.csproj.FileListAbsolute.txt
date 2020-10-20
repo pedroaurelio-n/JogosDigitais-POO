@@ -1,0 +1,12 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\2_Precos\bin\Debug\netcoreapp3.1\2_Precos.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\2_Precos\bin\Debug\netcoreapp3.1\2_Precos.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\2_Precos\bin\Debug\netcoreapp3.1\2_Precos.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\2_Precos\bin\Debug\netcoreapp3.1\2_Precos.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\2_Precos\bin\Debug\netcoreapp3.1\2_Precos.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\2_Precos\bin\Debug\netcoreapp3.1\2_Precos.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\2_Precos\obj\Debug\netcoreapp3.1\2_Precos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\2_Precos\obj\Debug\netcoreapp3.1\2_Precos.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\2_Precos\obj\Debug\netcoreapp3.1\2_Precos.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\2_Precos\obj\Debug\netcoreapp3.1\2_Precos.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\2_Precos\obj\Debug\netcoreapp3.1\2_Precos.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\2_Precos\obj\Debug\netcoreapp3.1\2_Precos.genruntimeconfig.cache

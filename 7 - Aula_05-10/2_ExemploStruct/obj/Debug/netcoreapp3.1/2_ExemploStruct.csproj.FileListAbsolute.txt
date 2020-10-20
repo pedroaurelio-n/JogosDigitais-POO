@@ -1,0 +1,12 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\2_ExemploStruct\obj\Debug\netcoreapp3.1\2_ExemploStruct.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\2_ExemploStruct\obj\Debug\netcoreapp3.1\2_ExemploStruct.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\2_ExemploStruct\obj\Debug\netcoreapp3.1\2_ExemploStruct.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\2_ExemploStruct\bin\Debug\netcoreapp3.1\2_ExemploStruct.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\2_ExemploStruct\bin\Debug\netcoreapp3.1\2_ExemploStruct.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\2_ExemploStruct\bin\Debug\netcoreapp3.1\2_ExemploStruct.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\2_ExemploStruct\bin\Debug\netcoreapp3.1\2_ExemploStruct.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\2_ExemploStruct\bin\Debug\netcoreapp3.1\2_ExemploStruct.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\2_ExemploStruct\bin\Debug\netcoreapp3.1\2_ExemploStruct.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\2_ExemploStruct\obj\Debug\netcoreapp3.1\2_ExemploStruct.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\2_ExemploStruct\obj\Debug\netcoreapp3.1\2_ExemploStruct.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\7 - Aula_05-10\2_ExemploStruct\obj\Debug\netcoreapp3.1\2_ExemploStruct.genruntimeconfig.cache

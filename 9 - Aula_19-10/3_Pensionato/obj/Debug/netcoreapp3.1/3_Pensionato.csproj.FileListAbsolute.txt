@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\bin\Debug\netcoreapp3.1\3_Pensionato.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\bin\Debug\netcoreapp3.1\3_Pensionato.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\bin\Debug\netcoreapp3.1\3_Pensionato.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\bin\Debug\netcoreapp3.1\3_Pensionato.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\bin\Debug\netcoreapp3.1\3_Pensionato.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\bin\Debug\netcoreapp3.1\3_Pensionato.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\9 - Aula_19-10\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.genruntimeconfig.cache
