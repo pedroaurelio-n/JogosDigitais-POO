@@ -10,3 +10,4 @@ C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaur
 C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\2_CotacaoDolar\obj\Debug\netcoreapp3.1\2_CotacaoDolar.dll
 C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\2_CotacaoDolar\obj\Debug\netcoreapp3.1\2_CotacaoDolar.pdb
 C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\2_CotacaoDolar\obj\Debug\netcoreapp3.1\2_CotacaoDolar.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\Exercícios_Variados\2_CotacaoDolar\obj\Debug\netcoreapp3.1\2_CotacaoDolar.csprojAssemblyReference.cache

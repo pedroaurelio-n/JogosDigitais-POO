@@ -7,17 +7,16 @@ namespace _1_ContaBancaria
     {
         int _numero;
         string _titular;
-        double _saldo;
+        public double Saldo { get; private set; }
 
         public ContaBancaria()
         {
         }
 
-        public ContaBancaria(int numero, string titular, double saldo)
+        public ContaBancaria(int numero, string titular)
         {
             _numero = numero;
             _titular = titular;
-            _saldo = saldo;
         }
 
         public int Numero
@@ -30,12 +29,6 @@ namespace _1_ContaBancaria
         {
             get { return _titular; }
             set { _titular = value; }
-        }
-
-        public double Saldo
-        {
-            get { return _saldo; }
-            set { _saldo = value; }
         }
 
         public void RealizarDeposito(double valor)

@@ -8,8 +8,12 @@ namespace _1_ContaBancaria
         {
             ContaBancaria a = new ContaBancaria();
 
-            Console.Write("Entre com o número da conta: ");
-            a.Numero = int.Parse(Console.ReadLine());
+            if (a.Numero == default)
+            {
+                Console.Write("Entre com o número da conta: ");
+                a.Numero = int.Parse(Console.ReadLine());
+            }
+
             Console.Write("Entre com o titular da conta: ");
             a.Titular = Console.ReadLine();
 
@@ -38,6 +42,8 @@ namespace _1_ContaBancaria
             a.RealizarSaque(double.Parse(Console.ReadLine()));
 
             Console.WriteLine("\nDados da conta atualizados: " + a);
+
+            Console.ReadKey();
         }
     }
 }

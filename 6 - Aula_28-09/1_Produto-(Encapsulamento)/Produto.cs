@@ -5,20 +5,25 @@ namespace _1_Produto__Encapsulamento_
 {
 	class Produto
 	{
+		//declaração de variáveis, duas com propriedades autoimplementadas
 		private string _nome;
-		private double _preco;
+		public double Preco { get; private set; }
 		public int Quantidade { get; private set; }
 
+		//construtor padrão
 		public Produto() 
 		{
 		}
 
+		//construtor personalizado
 		public Produto(string nome, double preco, int quantidade)
 		{
 			_nome = nome;
-			_preco = preco;
+			Preco = preco;
 			Quantidade = quantidade;
 		}
+
+		//propriedade Nome customizada com condição
 		public string Nome
 		{
 			get { return _nome; }
@@ -30,17 +35,10 @@ namespace _1_Produto__Encapsulamento_
 			}
 		}
 
-		public double Preco
-		{
-			get { return _preco; }
-
-			set { _preco = value; }
-		}
-
-
+		//métodos de classe
 		public double ValorTotalEstoque()
 		{
-			double total = Quantidade * _preco;
+			double total = Quantidade * Preco;
 			return total;
 		}
 
@@ -54,11 +52,11 @@ namespace _1_Produto__Encapsulamento_
 			Quantidade -= qnt;
 		}
 
-
+		//tostring para definir a formatação
 		public override string ToString()
 		{
 			return "Nome: " + _nome + "\n"
-				+ "Preço: R$ " + _preco.ToString("F2", CultureInfo.InvariantCulture) + "\n"
+				+ "Preço: R$ " + Preco.ToString("F2", CultureInfo.InvariantCulture) + "\n"
 				+ Quantidade + " unidades em estoque\n"
 				+ "Valor total: R$ " + ValorTotalEstoque().ToString("F2", CultureInfo.InvariantCulture);
 		}
