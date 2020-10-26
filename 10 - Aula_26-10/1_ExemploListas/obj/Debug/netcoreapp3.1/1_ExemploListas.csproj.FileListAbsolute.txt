@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\bin\Debug\netcoreapp3.1\1_ExemploListas.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\bin\Debug\netcoreapp3.1\1_ExemploListas.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\bin\Debug\netcoreapp3.1\1_ExemploListas.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\bin\Debug\netcoreapp3.1\1_ExemploListas.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\bin\Debug\netcoreapp3.1\1_ExemploListas.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\bin\Debug\netcoreapp3.1\1_ExemploListas.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\obj\Debug\netcoreapp3.1\1_ExemploListas.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\obj\Debug\netcoreapp3.1\1_ExemploListas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\obj\Debug\netcoreapp3.1\1_ExemploListas.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\obj\Debug\netcoreapp3.1\1_ExemploListas.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\obj\Debug\netcoreapp3.1\1_ExemploListas.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\obj\Debug\netcoreapp3.1\1_ExemploListas.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\1_ExemploListas\obj\Debug\netcoreapp3.1\1_ExemploListas.genruntimeconfig.cache
