@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\bin\Debug\netcoreapp3.1\2_Salarios.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\bin\Debug\netcoreapp3.1\2_Salarios.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\bin\Debug\netcoreapp3.1\2_Salarios.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\bin\Debug\netcoreapp3.1\2_Salarios.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\bin\Debug\netcoreapp3.1\2_Salarios.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\bin\Debug\netcoreapp3.1\2_Salarios.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\obj\Debug\netcoreapp3.1\2_Salarios.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\obj\Debug\netcoreapp3.1\2_Salarios.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\obj\Debug\netcoreapp3.1\2_Salarios.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\obj\Debug\netcoreapp3.1\2_Salarios.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\obj\Debug\netcoreapp3.1\2_Salarios.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\obj\Debug\netcoreapp3.1\2_Salarios.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\10 - Aula_26-10\2_Salarios\obj\Debug\netcoreapp3.1\2_Salarios.genruntimeconfig.cache

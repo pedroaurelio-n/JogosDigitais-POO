@@ -17,7 +17,8 @@ namespace _1_Produto__Encapsulamento_
 
 
             //criação do objeto com as propriedades definidas
-            Produto p = new Produto(nome, preco, quantidade);
+            Produto p = new Produto(preco, quantidade);
+            p.Nome = nome;
 
 
             //mostra das informações do objeto com o método tostring aplicando a formatação

@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\bin\Debug\netcoreapp3.1\1_MatrizQuadrada.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\bin\Debug\netcoreapp3.1\1_MatrizQuadrada.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\bin\Debug\netcoreapp3.1\1_MatrizQuadrada.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\bin\Debug\netcoreapp3.1\1_MatrizQuadrada.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\bin\Debug\netcoreapp3.1\1_MatrizQuadrada.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\bin\Debug\netcoreapp3.1\1_MatrizQuadrada.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\obj\Debug\netcoreapp3.1\1_MatrizQuadrada.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\obj\Debug\netcoreapp3.1\1_MatrizQuadrada.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\obj\Debug\netcoreapp3.1\1_MatrizQuadrada.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\obj\Debug\netcoreapp3.1\1_MatrizQuadrada.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\obj\Debug\netcoreapp3.1\1_MatrizQuadrada.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\obj\Debug\netcoreapp3.1\1_MatrizQuadrada.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\1_MatrizQuadrada\obj\Debug\netcoreapp3.1\1_MatrizQuadrada.genruntimeconfig.cache

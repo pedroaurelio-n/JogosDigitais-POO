@@ -16,9 +16,8 @@ namespace _1_Produto__Encapsulamento_
 		}
 
 		//construtor personalizado
-		public Produto(string nome, double preco, int quantidade)
+		public Produto(double preco, int quantidade)
 		{
-			_nome = nome;
 			Preco = preco;
 			Quantidade = quantidade;
 		}
