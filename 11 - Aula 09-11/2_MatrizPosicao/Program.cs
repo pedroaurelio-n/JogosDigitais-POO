@@ -17,7 +17,7 @@ namespace _2_MatrizPosicao
             int[,] mat = new int[m, n];
 
             //loop que repete enquanto a quantidade de linhas for menor que o valor de n
-            for (int l = 0; l < n; l++)
+            for (int l = 0; l < m; l++)
             {
                 //array de strings values que armazenará os números digitados pelo usuário separados por espaço
                 string[] values = Console.ReadLine().Split(' ');
@@ -35,6 +35,7 @@ namespace _2_MatrizPosicao
 
             //declaração de x que receberá um valor digitado pelo usuário
             int x = int.Parse(Console.ReadLine());
+            Console.WriteLine();
 
             //loops para as linhas e colunas (nessa ordem) que percorrerão a matriz inteira
             for (int l = 0; l < m; l++)
@@ -45,7 +46,7 @@ namespace _2_MatrizPosicao
                     if (mat[l, c] == x)
                     {
                         //mostrar a posição do elemento na matriz
-                        Console.WriteLine("Posição: " + l + "," + c);
+                        Console.WriteLine("Posição: (" + l + "," + c + ")");
 
                         //mostrar qual elemento está em sua esquerda (se houver)
                         if (c > 0)
@@ -70,6 +71,8 @@ namespace _2_MatrizPosicao
                         {
                             Console.WriteLine("Baixo: " + mat[l + 1, c]);
                         }
+
+                        Console.WriteLine();
                     }
                 }
             }
