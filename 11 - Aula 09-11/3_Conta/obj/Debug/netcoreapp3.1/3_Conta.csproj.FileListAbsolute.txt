@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\bin\Debug\netcoreapp3.1\3_Conta.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\bin\Debug\netcoreapp3.1\3_Conta.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\bin\Debug\netcoreapp3.1\3_Conta.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\bin\Debug\netcoreapp3.1\3_Conta.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\bin\Debug\netcoreapp3.1\3_Conta.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\bin\Debug\netcoreapp3.1\3_Conta.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\obj\Debug\netcoreapp3.1\3_Conta.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\obj\Debug\netcoreapp3.1\3_Conta.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\obj\Debug\netcoreapp3.1\3_Conta.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\obj\Debug\netcoreapp3.1\3_Conta.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\obj\Debug\netcoreapp3.1\3_Conta.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\obj\Debug\netcoreapp3.1\3_Conta.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\11 - Aula 09-11\3_Conta\obj\Debug\netcoreapp3.1\3_Conta.genruntimeconfig.cache
