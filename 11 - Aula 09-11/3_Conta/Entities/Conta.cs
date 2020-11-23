@@ -2,16 +2,21 @@
 using System.Collections.Generic;
 using System.Text;
 
+//classe criada dentro de uma pasta para separar do programa principal
 namespace _3_Conta.Entities
 {
     class Conta
     {
+        //declaração de variáveis encapsuladas
+        //numero e titular serão alteradas somente nesta classe conta, enquanto que saldo utiliza protected set pois poderá ser alterado pelas subclasses
         public int Numero { get; private set; }
         public string Titular { get; private set; }
         public double Saldo { get; protected set; }
 
+        //construtor padrão
         public Conta() { }
 
+        //construtor com parâmetros customizados
         public Conta(int numero, string titular, double saldo)
         {
             Numero = numero;
@@ -19,11 +24,13 @@ namespace _3_Conta.Entities
             Saldo = saldo;
         }
 
+        //método de saque com atributo virtual para permitir sobreposição
         public virtual void Saque(double saldoTotal)
         {
             Saldo -= saldoTotal;
         }
 
+        //método de depósito
         public void Deposito(double saldoTotal)
         {
             Saldo += saldoTotal;
