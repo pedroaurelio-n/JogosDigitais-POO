@@ -18,7 +18,7 @@ namespace _2_Salarios
             //loop que repete o número de vezes que o usuário digitou para a quantidade de funcionários
             for (int i = 0; i < N; i++)
             {
-                //toda iteração do loop o usuário digitará os valores para a Id, Nome e Salário
+                //toda iteração do loop o usuário digitará os valores para a Id, Nome e Salario
                 Console.WriteLine("\nFuncionário #" + (i + 1) + ":");
 
                 Console.Write("Id: ");
