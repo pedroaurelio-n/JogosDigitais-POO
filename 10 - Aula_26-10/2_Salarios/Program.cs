@@ -18,12 +18,39 @@ namespace _2_Salarios
             //loop que repete o número de vezes que o usuário digitou para a quantidade de funcionários
             for (int i = 0; i < N; i++)
             {
+                //declaração de variáveis locais. idCheck pra determinar se o loop ocorre e id que é onde será armazenado o input digitado
+                bool idCheck = false;
+                int id;
+
                 //toda iteração do loop o usuário digitará os valores para a Id, Nome e Salario
                 Console.WriteLine("\nFuncionário #" + (i + 1) + ":");
 
-                Console.Write("Id: ");
-                int id = int.Parse(Console.ReadLine());
+                //loop do while para checar se o id já existe (tem que realizar pelo menos a primeira vez, toda vez), se idCheck for verdadeiro, repetir o loop;
+                do
+                {
+                    //input do usuário para o id
+                    Console.Write("Id: ");
+                    id = int.Parse(Console.ReadLine());
 
+                    //foreach que percorrerá os objetos existentes em lista
+                    foreach (Funcionario func in lista)
+                    {
+                        //se o id digitado no objeto atual for igual a um outro id que já havia sido digitado
+                        if (id == func.Id)
+                        {
+                            //idCheck verdadeiro, writeline de id já existente e break no foreach
+                            idCheck = true;
+                            Console.WriteLine("Id já existente!");
+                            break;
+                        }
+
+                        //se o programa não detectar um id igual existente, prosseguir
+                        idCheck = false;
+                    }
+
+                } while (idCheck);
+
+                //input para as outras variáveis
                 Console.Write("Nome: ");
                 string nome = Console.ReadLine();
 
@@ -60,14 +87,14 @@ namespace _2_Salarios
                 //input para a porcentagem desejada de aumento para o funcionário de índice 0 da lista2, que só tem o funcionário com a id desejada
                 Console.Write("Porcentagem de aumento de salário: ");
                 lista2[0].AumentarSalario(double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture));
+            }
 
-                //mostrar todos os funcionários
-                Console.WriteLine("\nLista atualizada de funcionários da Bravo: ");
-                //para cada Funcionario em lista, mostrar o objeto que já terá a formatação correta
-                foreach (Funcionario obj in lista)
-                {
-                    Console.WriteLine(obj);
-                }
+            //mostrar todos os funcionários
+            Console.WriteLine("\nLista atualizada de funcionários da Bravo: ");
+            //para cada Funcionario em lista, mostrar o objeto que já terá a formatação correta
+            foreach (Funcionario obj in lista)
+            {
+                Console.WriteLine(obj);
             }
 
             Console.ReadKey();
