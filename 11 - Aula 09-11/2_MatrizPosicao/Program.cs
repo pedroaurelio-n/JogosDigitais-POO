@@ -16,7 +16,7 @@ namespace _2_MatrizPosicao
             //criação de uma matriz com os tamanhos digitados
             int[,] mat = new int[m, n];
 
-            //loop que repete enquanto a quantidade de linhas for menor que o valor de n
+            //loop que repete enquanto a quantidade de linhas for menor que o valor de m
             for (int l = 0; l < m; l++)
             {
                 //array de strings values que armazenará os números digitados pelo usuário separados por espaço
