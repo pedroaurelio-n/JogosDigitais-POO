@@ -1,0 +1,12 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\2_Conta-ClasseAbstrata\bin\Debug\netcoreapp3.1\2_Conta-ClasseAbstrata.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\2_Conta-ClasseAbstrata\bin\Debug\netcoreapp3.1\2_Conta-ClasseAbstrata.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\2_Conta-ClasseAbstrata\bin\Debug\netcoreapp3.1\2_Conta-ClasseAbstrata.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\2_Conta-ClasseAbstrata\bin\Debug\netcoreapp3.1\2_Conta-ClasseAbstrata.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\2_Conta-ClasseAbstrata\bin\Debug\netcoreapp3.1\2_Conta-ClasseAbstrata.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\2_Conta-ClasseAbstrata\bin\Debug\netcoreapp3.1\2_Conta-ClasseAbstrata.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\2_Conta-ClasseAbstrata\obj\Debug\netcoreapp3.1\2_Conta-ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\2_Conta-ClasseAbstrata\obj\Debug\netcoreapp3.1\2_Conta-ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\2_Conta-ClasseAbstrata\obj\Debug\netcoreapp3.1\2_Conta-ClasseAbstrata.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\2_Conta-ClasseAbstrata\obj\Debug\netcoreapp3.1\2_Conta-ClasseAbstrata.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\2_Conta-ClasseAbstrata\obj\Debug\netcoreapp3.1\2_Conta-ClasseAbstrata.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\2_Conta-ClasseAbstrata\obj\Debug\netcoreapp3.1\2_Conta-ClasseAbstrata.genruntimeconfig.cache

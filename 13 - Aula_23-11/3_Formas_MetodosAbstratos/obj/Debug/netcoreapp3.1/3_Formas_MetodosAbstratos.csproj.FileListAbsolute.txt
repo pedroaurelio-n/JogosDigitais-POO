@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\bin\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\bin\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\bin\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\bin\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\bin\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\bin\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\obj\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\obj\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\obj\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\obj\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\obj\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\obj\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\3_Formas_MetodosAbstratos\obj\Debug\netcoreapp3.1\3_Formas_MetodosAbstratos.genruntimeconfig.cache

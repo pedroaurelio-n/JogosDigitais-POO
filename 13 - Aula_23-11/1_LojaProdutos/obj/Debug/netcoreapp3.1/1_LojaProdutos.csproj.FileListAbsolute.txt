@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\bin\Debug\netcoreapp3.1\1_LojaProdutos.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\bin\Debug\netcoreapp3.1\1_LojaProdutos.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\bin\Debug\netcoreapp3.1\1_LojaProdutos.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\bin\Debug\netcoreapp3.1\1_LojaProdutos.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\bin\Debug\netcoreapp3.1\1_LojaProdutos.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\bin\Debug\netcoreapp3.1\1_LojaProdutos.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\obj\Debug\netcoreapp3.1\1_LojaProdutos.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\obj\Debug\netcoreapp3.1\1_LojaProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\obj\Debug\netcoreapp3.1\1_LojaProdutos.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\obj\Debug\netcoreapp3.1\1_LojaProdutos.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\obj\Debug\netcoreapp3.1\1_LojaProdutos.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\obj\Debug\netcoreapp3.1\1_LojaProdutos.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\13 - Aula 23-11\1_LojaProdutos\obj\Debug\netcoreapp3.1\1_LojaProdutos.genruntimeconfig.cache
