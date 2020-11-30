@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\obj\Debug\netcoreapp3.1\1_FolhaPagamento.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\obj\Debug\netcoreapp3.1\1_FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\obj\Debug\netcoreapp3.1\1_FolhaPagamento.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\obj\Debug\netcoreapp3.1\1_FolhaPagamento.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\bin\Debug\netcoreapp3.1\1_FolhaPagamento.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\bin\Debug\netcoreapp3.1\1_FolhaPagamento.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\bin\Debug\netcoreapp3.1\1_FolhaPagamento.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\bin\Debug\netcoreapp3.1\1_FolhaPagamento.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\bin\Debug\netcoreapp3.1\1_FolhaPagamento.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\bin\Debug\netcoreapp3.1\1_FolhaPagamento.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\obj\Debug\netcoreapp3.1\1_FolhaPagamento.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\obj\Debug\netcoreapp3.1\1_FolhaPagamento.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\12 - Aula_16-11\1_FolhaPagamento\obj\Debug\netcoreapp3.1\1_FolhaPagamento.genruntimeconfig.cache
