@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\obj\Debug\netcoreapp3.1\1_Interface.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\obj\Debug\netcoreapp3.1\1_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\obj\Debug\netcoreapp3.1\1_Interface.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\obj\Debug\netcoreapp3.1\1_Interface.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\bin\Debug\netcoreapp3.1\1_Interface.exe
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\bin\Debug\netcoreapp3.1\1_Interface.deps.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\bin\Debug\netcoreapp3.1\1_Interface.runtimeconfig.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\bin\Debug\netcoreapp3.1\1_Interface.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\bin\Debug\netcoreapp3.1\1_Interface.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\bin\Debug\netcoreapp3.1\1_Interface.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\obj\Debug\netcoreapp3.1\1_Interface.dll
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\obj\Debug\netcoreapp3.1\1_Interface.pdb
+C:\Users\Pichau\Desktop\Pastas\JOGOS DIGITAIS\Projetos\Visual Basic\POO\pedroaurelio-n\JogosDigitais-POO\14 - Aula_30-11\1_Interface\obj\Debug\netcoreapp3.1\1_Interface.genruntimeconfig.cache
